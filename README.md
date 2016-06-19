@@ -32,6 +32,6 @@ This repository contains the requirements of the project which were :
 * Appropriately labels the data set with descriptive activity names.
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-CodeBook.md: the variables in the original and tidied file
-README.md: this file
-run_analysis.R: R script to transform raw data set in a tidy one
+- CodeBook.md: the variables in the original and tidied file
+- README.md: this file
+- run_analysis.R: R script to transform raw data set in a tidy one
